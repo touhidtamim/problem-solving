@@ -6,7 +6,7 @@ int main(){
 
     scanf("%d %d", &A, &B);
     PROD = A * B;
-    printf("PROD = %d\n", PROD);
+    printf("PROD = %d\n", );
 
     return 0;
 }
